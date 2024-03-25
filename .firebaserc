@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "cyse1008-test"
-  }
+    "default": "cyse1008-test",
+    "staging": "cyse1008-tawinder"
+  },
+  "targets": {},
+  "etags": {}
 }
